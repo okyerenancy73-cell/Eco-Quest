@@ -1,0 +1,6 @@
+{
+  "name": "EcoQuest",
+  "description": "ClimateTech & CivicTech application making environmental responsibility and sanitation engaging through gamification and community action.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
